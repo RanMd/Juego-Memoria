@@ -20,9 +20,9 @@ Un proyecto simple de un juego en el que debes seguir el patron que se te muestr
       venv\Scripts\activate
       ```
    O
-   ```bash
-   .\venv\Scripts\activate
-   ```
+      ```bash
+      .\venv\Scripts\activate
+      ```
    - Linux/Mac
       ```bash
       source venv/bin/activate
