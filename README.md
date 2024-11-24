@@ -16,17 +16,17 @@ Un proyecto simple de un juego en el que debes seguir el patron que se te muestr
 
 3. **Activa el entorno virtual:**
    - Windows:
-   ```bash
-   venv\Scripts\activate
-   ```
-   o
+      ```bash
+      venv\Scripts\activate
+      ```
+   O
    ```bash
    .\venv\Scripts\activate
    ```
    - Linux/Mac
-   ```bash
-   source venv/bin/activate
-   ```
+      ```bash
+      source venv/bin/activate
+      ```
 
 4. **Instala las dependencias:**
    ```bash
