@@ -1,10 +1,7 @@
 # Juego de memoria 
 
----
-
 Un proyecto simple de un juego en el que debes seguir el patron que se te muestre, mediante el cambio de color de los recuadros tendras que clickearlos en el orden correcto.
 
----
 
 ## 🚀 Instalación
 
