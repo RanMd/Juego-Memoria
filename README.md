@@ -14,10 +14,24 @@ Un proyecto simple de un juego en el que debes seguir el patron que se te muestr
    ```bash
    python -m venv venv
 
-3. **Instala las dependencias:**
+3. **Activa el entorno virtual:**
+   - Windows:
+   ```bash
+   venv\Scripts\activate
+   ```
+   o
+   ```bash
+   .\venv\Scripts\activate
+   ```
+   - Linux/Mac
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. **Instala las dependencias:**
    ```bash
    pip install -r requirements.txt
 
-4. **Ejecuta el juego:**
+5. **Ejecuta el juego:**
    ```bash
    python main.py
