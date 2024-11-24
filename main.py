@@ -15,8 +15,6 @@ pg.display.set_caption("Memoria")
 pg.display.set_icon(logo)
 clock = pg.time.Clock()
 
-
-
 def main():
     game = Game()
     
